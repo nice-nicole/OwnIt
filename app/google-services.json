@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625739009886",
+    "firebase_url": "https://ownit-3178f.firebaseio.com",
+    "project_id": "ownit-3178f",
+    "storage_bucket": "ownit-3178f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625739009886:android:2ba1f2c643256e8121c9cf",
+        "android_client_info": {
+          "package_name": "com.example.ownit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625739009886-sueegogau2dtd2p6k3l2phma81nkvk2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFBxvCZyU4rh8L4Pv74qZI0C6BtrtHos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625739009886-sueegogau2dtd2p6k3l2phma81nkvk2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

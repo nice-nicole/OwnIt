@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnIt</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="aleary_have">ALREADY HAVE AN ACCOUNT? LOG IN</string>
+    <string name="welcome_to_">Welcome to OWN IT</string>
+    <string name="explore_the">Explore the app, Find some peace of mind \nto boost your energy.</string>
+</resources>
